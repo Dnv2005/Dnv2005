@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniela
 
-<!--
-**Dnv2005/Dnv2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Me interesa el desarrollo de software, especialmente en Phyton mas que en Java.  
+🎮 Me gusta reprogramar videojuegos y hacer proyectos creativos de power point (veanse la mayoria de diseños de mis presentaciones) 
+📚 Actualmente estudio 1º de DAW
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Burger Meal**  — Sistema de pedidos en Java (DAW) (Mi proyecto del 1º Trimestre)
+- **Codex de SubMassive Games Bestiario**  — Hecho con Canva + Markdown (Cosas mias personales)
+
+## 📫 Contacto
+
+Puedes escribirme por correo: dani4@silent.com  
+O seguirme aquí en GitHub 😄
