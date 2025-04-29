@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Daniela
 
 💻 Me interesa el desarrollo de software, especialmente en Phyton mas que en Java.  
-🎮 Me gusta reprogramar videojuegos y hacer proyectos creativos de power point (veanse la mayoria de diseños de mis presentaciones) 
+🎮 Me gusta reprogramar videojuegos y hacer proyectos creativos de power point (veanse la mayoria de diseños de mis presentaciones)
 📚 Actualmente estudio 1º de DAW
 
 ## 🚀 Proyectos
